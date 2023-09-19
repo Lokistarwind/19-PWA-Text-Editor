@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "jate",
-  "short_name": "jate",
+  "name": "JATE",
+  "short_name": "JATE",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
